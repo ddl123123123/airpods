@@ -1,0 +1,18 @@
+{
+  "desktop": "1440 \u00d7 1050",
+  "mobile": "390 \u00d7 844",
+  "mobile_horizontal_overflow": false,
+  "local_links_http_status": 200,
+  "runtime_errors": [],
+  "tested_interactions": [
+    "open lid",
+    "explode parts",
+    "inspect cavity",
+    "change palette",
+    "angle slider",
+    "back view",
+    "reset view",
+    "WebGL fallback"
+  ],
+  "note": "Headless Chromium with software WebGL. Physical device fit remains untested."
+}

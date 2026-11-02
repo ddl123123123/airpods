@@ -1,0 +1,44 @@
+{
+  "device-lower-envelope.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "71640f849a3246fb941452c5842b59f5eedce92c7f578cbddaba379477682f95"
+  },
+  "lower-shell.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "40ce49b86f52f645ff6f6a92651cf852f9ccfc03e5ee06c07c43a33e7773eaea"
+  },
+  "beret-lid.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "c2395fa0df1def84f7d6ae9798f4e3737534313ce9de7e7e5d83da9abbf4d69e"
+  },
+  "fit-ring.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "3976697670c63c7e49db4d8e38679db31575cedcea9daa0163ec1d2e8f246fed"
+  },
+  "device-lid-envelope.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "ad9f4d87e4565bc588403e9c45d0851cf75ded05f60179c6e52daf9a762a030a"
+  },
+  "device-envelope.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "6468a2b6242bd7f230374fca2cc3966345464132c1e255aeb36abd1ccdd44890"
+  },
+  "beret-lid-print.stl": {
+    "watertight": true,
+    "positive_volume": true,
+    "components": 1,
+    "sha256": "9a84046d6c093a1ca09978e06898382910ad0c5678310052952a613ffbb5681a"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "units": "mm",
+  "device": {
+    "width": 62.22,
+    "depth": 21.84,
+    "height": 47.22,
+    "corner_radius_approx": 10.5
+  },
+  "clearance_per_side": 0.3,
+  "device_bottom_z": 3.0,
+  "seam_z": 35.5,
+  "seam_height_assumed": 32.5,
+  "split_gap": 0.6,
+  "hinge_pivot_illustrative": [
+    0.0,
+    9.7,
+    35.5
+  ],
+  "angle_max": 115,
+  "cavity_envelope": [
+    62.82,
+    22.44,
+    47.82
+  ],
+  "prototype": true
+}

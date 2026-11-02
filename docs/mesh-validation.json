@@ -1,0 +1,313 @@
+{
+  "parameters": {
+    "units": "mm",
+    "device": {
+      "width": 62.22,
+      "depth": 21.84,
+      "height": 47.22,
+      "corner_radius_approx": 10.5
+    },
+    "clearance_per_side": 0.3,
+    "device_bottom_z": 3.0,
+    "seam_z": 35.5,
+    "seam_height_assumed": 32.5,
+    "split_gap": 0.6,
+    "hinge_pivot_illustrative": [
+      0.0,
+      9.7,
+      35.5
+    ],
+    "angle_max": 115,
+    "cavity_envelope": [
+      62.82,
+      22.44,
+      47.82
+    ],
+    "prototype": true
+  },
+  "meshes": {
+    "lower-shell": {
+      "triangles": 58464,
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 30126.49,
+      "bounds_mm": [
+        [
+          -40.6,
+          -21.879,
+          0.013
+        ],
+        [
+          40.6,
+          18.908,
+          35.2
+        ]
+      ],
+      "size_mm": [
+        81.2,
+        40.787,
+        35.187
+      ]
+    },
+    "beret-lid": {
+      "triangles": 58792,
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 39595.79,
+      "bounds_mm": [
+        [
+          -43.076,
+          -20.312,
+          35.8
+        ],
+        [
+          39.5,
+          21.005,
+          65.0
+        ]
+      ],
+      "size_mm": [
+        82.576,
+        41.317,
+        29.2
+      ]
+    },
+    "fit-ring": {
+      "triangles": 2488,
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 1829.91,
+      "bounds_mm": [
+        [
+          -33.81,
+          -13.62,
+          0.0
+        ],
+        [
+          33.81,
+          13.62,
+          5.0
+        ]
+      ],
+      "size_mm": [
+        67.62,
+        27.24,
+        5.0
+      ]
+    },
+    "device-envelope": {
+      "triangles": 5120,
+      "watertight": true,
+      "components": 1,
+      "volume_mm3": 53174.03,
+      "bounds_mm": [
+        [
+          -31.11,
+          -10.92,
+          3.0
+        ],
+        [
+          31.11,
+          10.92,
+          50.22
+        ]
+      ],
+      "size_mm": [
+        62.22,
+        21.84,
+        47.22
+      ]
+    }
+  },
+  "lid_sweep_samples": [
+    {
+      "angle_deg": 0.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 2.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 5.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 7.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 10.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 12.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 15.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 17.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 20.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 22.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 25.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 27.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 30.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 32.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 35.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 37.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 40.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 42.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 45.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 47.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 50.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 52.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 55.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 57.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 60.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 62.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 65.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 67.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 70.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 72.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 75.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 77.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 80.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 82.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 85.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 87.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 90.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 92.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 95.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 97.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 100.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 102.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 105.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 107.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 110.0,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 112.5,
+      "intersection_mm3": 0
+    },
+    {
+      "angle_deg": 115.0,
+      "intersection_mm3": 0
+    }
+  ],
+  "note": "Digital mesh checks only. Device corner profile and hinge axis approximate; physical fit, lid retention, touch pairing, cable and acoustics require a prototype."
+}
